@@ -1,0 +1,64 @@
+@echo off
+title ATTACK
+color A
+ping -n 2 127.0.0.1>nul
+echo ATTACK OF THE HACKERS.................!!
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+echo error ! system FILE DELETING............................!
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+echo 1 precent..................................,
+ping -n 2 127.0.0.1>nul
+echo 10 precent................................,
+ping -n 2 127.0.0.1>nul
+echo 30 precent................................,
+ping -n 2 127.0.0.1>nul
+echo 60 precent...............................,
+ping -n 2 127.0.0.1>nul
+echo 80 precent................................,
+ping -n 2 127.0.0.1>nul
+echo 100 precent..............................,
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+echo system file deleting completed 100 precent error code 99521879 LOL...!!!!! 
+ping -n 2 127.0.0.1>nul
+echo 	##############			#############
+ping -n 2 127.0.0.1>nul
+echo  	    @@@			   	     @@@
+ping -n 2 127.0.0.1>nul
+echo   			###########
+ping -n 2 127.0.0.1>nul
+echo   			###########
+ping -n 2 127.0.0.1>nul
+echo   			###########
+ping -n 2 127.0.0.1>nul
+echo  			@@@@@@@@@@@
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+echo DELETING ALL THE DRIVERS................................................!
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+echo ALL THE DRIVERS DELETING COMPLETE.....................! 
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+echo HARD DISK READING ERROR  .....................! 
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+ping -n 2 127.0.0.1>nul
+
